@@ -1,0 +1,5 @@
+---
+layout: none
+permalink: /.well-known/acme-challenge/foo
+---
+hello therer
